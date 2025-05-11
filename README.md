@@ -29,10 +29,20 @@ All data transformation was handled in Power Query inside Power BI Desktop. I to
 
 ## 📸 Dashboard Previews
 
-> You can find visual previews of the dashboard in the `/Screenshots` folder.
+### 🟪 Airline & Passenger Summary
+![Airline Summary](Screenshots/airline_passenger_summary.png)
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
-![Delay Analysis](Screenshots/delay_analysis.png)
+### 🌍 Destination Ticket and Flight Distribution
+![Destinations Overview](Screenshots/destination_ticket_flight_distribution.png)
+
+### 🔀 Flights by Airline and Destination
+![Flight Tree](Screenshots/flights_by_airline_and_destination.png)
+
+### 📊 Passengers and Flights by Airline
+![Passenger vs Flights](Screenshots/passenger_and_flight_count_by_airline.png)
+
+### 📌 Airline Overview & Booking Status
+![Status Breakdown](Screenshots/airline_overview_status_distribution.png)
 
 ## 📁 File
 
