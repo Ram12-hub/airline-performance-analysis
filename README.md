@@ -1,10 +1,10 @@
 # airline-performance-analysis
 
-# ✈️ Airline Performance Analysis – Power BI Dashboard
+# Airline Performance Analysis – Power BI Dashboard
 
 This project is a visual analysis of airline performance metrics using Power BI. I worked with raw flight data to explore how different airlines perform when it comes to delays, cancellations, and overall reliability. The goal was to turn raw numbers into clear insights through data cleaning, modeling, and storytelling with interactive visuals.
 
-## 📊 What This Dashboard Covers
+## What This Dashboard Covers
 
 - Average delay times across different airlines and routes
 - Flight cancellation trends and patterns
@@ -12,7 +12,7 @@ This project is a visual analysis of airline performance metrics using Power BI.
 - On-time performance percentages
 - Dynamic filters for city, airline, and date selections
 
-## 🧹 Data Cleaning & Modeling
+## Data Cleaning & Modeling
 
 All data transformation was handled in Power Query inside Power BI Desktop. I took care to:
 - Remove nulls and irrelevant columns
@@ -20,35 +20,35 @@ All data transformation was handled in Power Query inside Power BI Desktop. I to
 - Create calculated fields and DAX measures to power KPIs
 - Build a simple, clean data model with meaningful relationships
 
-## 🛠 Tools Used
+## Tools Used
 
 - Power BI Desktop
 - Power Query for ETL
 - DAX for calculated measures
 - Visualizations: bar charts, slicers, cards, line graphs
 
-## 📸 Dashboard Previews
+## Dashboard Previews
 
-### 🟪 Airline & Passenger Summary
+### Airline & Passenger Summary
 ![Airline Summary](Screenshots/airline_passenger_summary.png)
 
-### 🌍 Destination Ticket and Flight Distribution
+### Destination Ticket and Flight Distribution
 ![Destinations Overview](Screenshots/destination_ticket_flight_distribution.png)
 
-### 🔀 Flights by Airline and Destination
+### Flights by Airline and Destination
 ![Flight Tree](Screenshots/flights_by_airline_and_destination.png)
 
-### 📊 Passengers and Flights by Airline
+### Passengers and Flights by Airline
 ![Passenger vs Flights](Screenshots/passenger_and_flight_count_by_airline.png)
 
-### 📌 Airline Overview & Booking Status
+### Airline Overview & Booking Status
 ![Status Breakdown](Screenshots/airline_overview_status_distribution.png)
 
-## 📁 File
+## File
 
 - `Airline_Performance_Analysis.pbix` — The full Power BI project file
 
-## 📌 How to View
+## How to View
 
 Download and open the `.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). From there, you can interact with all the visuals and explore the insights.
 
